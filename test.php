@@ -1,6 +1,6 @@
 <?php
 
-echo "<h1><b>TESTING FILE  GIT</b></h1>"
+echo "<h1><b>TESTING FILE is GIT</b></h1>"
 
 $i = 5;
 
